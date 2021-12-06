@@ -72,6 +72,11 @@ typings/
 .env
 .env.test
 
+# wallet environment variables file
+secrets.json
+artifacts
+cache
+
 # parcel-bundler cache (https://parceljs.org/)
 .cache
 
